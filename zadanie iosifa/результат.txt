@@ -1,0 +1,7 @@
+N: 1000 | Answer: 604 | Time: 0 sec
+N: 5000 | Answer: 2864 | Time: 0 sec
+N: 10000 | Answer: 2692 | Time: 0 sec
+N: 50000 | Answer: 11747 | Time: 0 sec
+N: 100000 | Answer: 92620 | Time: 0 sec
+N: 500000 | Answer: 450133 | Time: 0.002 sec
+N: 1000000 | Answer: 637798 | Time: 0.004 sec
