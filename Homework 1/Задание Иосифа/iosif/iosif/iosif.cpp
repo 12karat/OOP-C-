@@ -22,7 +22,7 @@ int main() {
 
         double duration = static_cast<double>(end - start) / CLOCKS_PER_SEC;
 
-        std::cout << "N: " << n << " | Ответ: " << result << " | Время: " << duration << " сек" << std::endl;
+        std::cout << "N: " << n << " | Answer: " << result << " | Time: " << duration << " Sec" << std::endl;
     }
 
     return 0;

@@ -10,7 +10,7 @@ private:
 
     void simplify();
 
-public
+public:
     Rational();
     Rational(int number);
     Rational(int n, int d);
