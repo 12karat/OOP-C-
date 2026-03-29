@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="iosif/iosif.vcxproj" Id="65548e3c-8de9-4332-bd01-a9f8dee73832" />
-</Solution>
